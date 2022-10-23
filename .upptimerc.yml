@@ -16,9 +16,9 @@ sites:
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200
-     - name: Sitemap 
-       url: https://hidessh.com/blog/sitemap.xml
-       icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+     - name: PPOB 
+       url: https://ppob.hidessh.com
+       icon: https://ppob.hidessh.com/file/images/300b794c4696b5b551fe31036db7785f.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200
