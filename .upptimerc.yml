@@ -44,6 +44,12 @@ status-website:
   
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+i18n:
+  footer: This page is [created]($REPO) @2022 by [HideSSH](hidessh.com), powered by [Upptime](https://upptime.js.org)  
+  
+  
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
