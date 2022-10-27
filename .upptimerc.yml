@@ -21,19 +21,13 @@ sites:
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200
-     - name: Kasir 
-       url: https://kasir.hidessh.com
-       icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 200  
      - name: Shorlink 
        url: https://s.hidessh.com
        icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200  
-     - name: IP 
+     - name: IP Address
        url: https://ip.hidessh.com
        icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
        maxResponseTime: 5000
