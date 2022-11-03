@@ -33,6 +33,12 @@ sites:
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200  
+     - name: Kasir
+       url: https://pos.hidessh.com
+       icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200      
      
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
