@@ -39,19 +39,18 @@ sites:
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200      
-      - name: Panel Hidessh
+     - name: Panel HideSSH
        url: https://panel.hidessh.com
        icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
        maxResponseTime: 5000
        expectedStatusCodes:
-        - 200 
-       - name: Nginx 
+        - 200  
+     - name: NGINX
        url: https://web.sshcdn.com
        icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
        maxResponseTime: 5000
        expectedStatusCodes:
-        - 200   
-        
+        - 200      
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
