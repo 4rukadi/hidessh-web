@@ -5,49 +5,49 @@ repo:  hidessh-web # The name of this repository
 sites:
      - name: HideSSH Website
        url: https://hidessh.com/
-       icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+       icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200
      - name: Blog HideSSH    
        url: https://hidessh.com/blog
-       icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+       icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200
      - name: PPOB 
        url: https://ppob.hidessh.com
-       icon: https://ppob.hidessh.com/file/images/300b794c4696b5b551fe31036db7785f.png
+       icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200
      - name: Shorlink 
        url: https://s.hidessh.com
-       icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+       icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200  
      - name: IP Address
        url: https://ip.hidessh.com
-       icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+       icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200  
      - name: Kasir
        url: https://pos.hidessh.com
-       icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+       icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200      
      - name: Panel HideSSH
        url: https://panel.hidessh.com
-       icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+       icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200  
      - name: NGINX
        url: https://web.sshcdn.com
-       icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+       icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200      
@@ -56,8 +56,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: ping.hidessh.com
   # baseUrl: /your-repo-name
-  favicon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
-  logoUrl: https://hidessh.com/storage/site/SkEPvj4EgttwJ63kDq7do5y5xsdoE4q9Cq8QHHsm.png
+  favicon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+  logoUrl: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
   name: HideSSH - Server Status
   introTitle: "Welcome to our **HideSSH** server status page. "
   introMessage: You can get updates on how our systems are doing. If there are interruptions to service, we will post a note here.
