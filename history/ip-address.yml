@@ -1,7 +1,7 @@
 url: https://ip.hidessh.com
-status: up
+status: degraded
 code: 200
-responseTime: 1594
-lastUpdated: 2023-01-21T23:18:24.498Z
+responseTime: 8980
+lastUpdated: 2023-01-22T05:35:09.071Z
 startTime: Thu Oct 27 2022 18:08:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
