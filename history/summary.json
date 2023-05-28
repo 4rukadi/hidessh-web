@@ -130,17 +130,17 @@
     "url": "https://web.sshcdn.com",
     "icon": "https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "nginx",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1774,
-    "timeDay": 2579,
-    "timeWeek": 2627,
-    "timeMonth": 2190,
-    "timeYear": 1774,
+    "time": 1776,
+    "timeDay": 2568,
+    "timeWeek": 2619,
+    "timeMonth": 2193,
+    "timeYear": 1776,
     "dailyMinutesDown": {}
   }
 ]
