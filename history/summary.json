@@ -76,7 +76,7 @@
     "url": "https://ip.hidessh.com",
     "icon": "https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "ip-address",
-    "status": "degraded",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -138,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 1829,
     "timeDay": 2948,
-    "timeWeek": 2271,
+    "timeWeek": 2305,
     "timeMonth": 2339,
     "timeYear": 1829,
     "dailyMinutesDown": {}
