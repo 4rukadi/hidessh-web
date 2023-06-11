@@ -58,7 +58,7 @@
     "url": "https://s.hidessh.com",
     "icon": "https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "shorlink",
-    "status": "degraded",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -101,7 +101,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2757,
-    "timeDay": 15967,
+    "timeDay": 15971,
     "timeWeek": 11588,
     "timeMonth": 7320,
     "timeYear": 2757,
@@ -139,7 +139,7 @@
     "time": 1828,
     "timeDay": 1416,
     "timeWeek": 2387,
-    "timeMonth": 2371,
+    "timeMonth": 2380,
     "timeYear": 1828,
     "dailyMinutesDown": {}
   }
