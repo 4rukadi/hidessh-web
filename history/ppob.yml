@@ -1,7 +1,7 @@
 url: https://ppob.hidessh.com
-status: degraded
+status: down
 code: 500
-responseTime: 9579
-lastUpdated: 2023-08-23T15:22:21.910Z
+responseTime: 1081
+lastUpdated: 2023-08-23T15:34:35.013Z
 startTime: 2022-10-23T19:03:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
