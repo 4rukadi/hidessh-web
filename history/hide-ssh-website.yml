@@ -1,7 +1,7 @@
 url: https://hidessh.com/
-status: down
+status: degraded
 code: 500
-responseTime: 1945
-lastUpdated: 2023-09-07T16:30:50.420Z
+responseTime: 10904
+lastUpdated: 2023-09-07T16:54:17.779Z
 startTime: 2022-10-23T18:29:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
