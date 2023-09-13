@@ -1,7 +1,7 @@
 url: https://pos.hidessh.com
-status: up
+status: degraded
 code: 200
-responseTime: 3121
-lastUpdated: 2023-09-12T23:16:45.841Z
+responseTime: 11513
+lastUpdated: 2023-09-13T09:45:07.249Z
 startTime: 2022-11-03T04:24:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
