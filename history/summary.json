@@ -4,17 +4,17 @@
     "url": "https://hidessh.com/",
     "icon": "https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "hide-ssh-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1700,
-    "timeDay": 8837,
-    "timeWeek": 5950,
-    "timeMonth": 2823,
-    "timeYear": 1722,
+    "time": 1746,
+    "timeDay": 12228,
+    "timeWeek": 7043,
+    "timeMonth": 3235,
+    "timeYear": 1771,
     "dailyMinutesDown": {}
   },
   {
@@ -50,7 +50,7 @@
     "timeDay": 983,
     "timeWeek": 1534,
     "timeMonth": 1382,
-    "timeYear": 1528,
+    "timeYear": 1529,
     "dailyMinutesDown": {}
   },
   {
@@ -68,7 +68,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3202,
+    "timeYear": 3209,
     "dailyMinutesDown": {}
   },
   {
@@ -86,7 +86,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2568,
+    "timeYear": 2571,
     "dailyMinutesDown": {}
   },
   {
@@ -104,7 +104,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3190,
+    "timeYear": 3197,
     "dailyMinutesDown": {}
   },
   {
