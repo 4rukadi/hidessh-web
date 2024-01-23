@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1712,
-    "timeDay": 1586,
-    "timeWeek": 1433,
-    "timeMonth": 1462,
+    "time": 1711,
+    "timeDay": 1044,
+    "timeWeek": 1360,
+    "timeMonth": 1455,
     "timeYear": 1747,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1294,
-    "timeDay": 15,
-    "timeWeek": 16,
-    "timeMonth": 25,
-    "timeYear": 1340,
+    "time": 1292,
+    "timeDay": 5,
+    "timeWeek": 15,
+    "timeMonth": 24,
+    "timeYear": 1338,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1513,
-    "timeDay": 1162,
-    "timeWeek": 1206,
+    "time": 1512,
+    "timeDay": 943,
+    "timeWeek": 1157,
     "timeMonth": 1487,
-    "timeYear": 1511,
+    "timeYear": 1510,
     "dailyMinutesDown": {}
   },
   {
@@ -68,7 +68,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3950,
+    "timeYear": 3963,
     "dailyMinutesDown": {}
   },
   {
@@ -86,7 +86,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2561,
+    "timeYear": 2564,
     "dailyMinutesDown": {}
   },
   {
@@ -104,7 +104,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3869,
+    "timeYear": 3880,
     "dailyMinutesDown": {}
   },
   {
@@ -118,11 +118,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1213,
-    "timeDay": 72,
-    "timeWeek": 117,
-    "timeMonth": 133,
-    "timeYear": 1146,
+    "time": 1210,
+    "timeDay": 108,
+    "timeWeek": 128,
+    "timeMonth": 132,
+    "timeYear": 1142,
     "dailyMinutesDown": {}
   },
   {
@@ -136,11 +136,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1846,
+    "time": 1847,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1921,
+    "timeYear": 1924,
     "dailyMinutesDown": {}
   }
 ]
