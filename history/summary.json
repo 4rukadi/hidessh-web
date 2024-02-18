@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1716,
-    "timeDay": 1469,
-    "timeWeek": 1552,
-    "timeMonth": 1423,
+    "timeDay": 1174,
+    "timeWeek": 1563,
+    "timeMonth": 1427,
     "timeYear": 1756,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1227,
-    "timeDay": 14,
-    "timeWeek": 205,
+    "time": 1226,
+    "timeDay": 28,
+    "timeWeek": 207,
     "timeMonth": 140,
-    "timeYear": 1313,
+    "timeYear": 1312,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1505,
-    "timeDay": 1000,
-    "timeWeek": 1154,
-    "timeMonth": 1326,
+    "timeDay": 1242,
+    "timeWeek": 1171,
+    "timeMonth": 1333,
     "timeYear": 1504,
     "dailyMinutesDown": {}
   },
@@ -68,7 +68,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 4336,
+    "timeYear": 4353,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2573,
+    "time": 2576,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2539,
+    "timeYear": 2543,
     "dailyMinutesDown": {}
   },
   {
@@ -104,7 +104,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 4231,
+    "timeYear": 4250,
     "dailyMinutesDown": {}
   },
   {
@@ -119,10 +119,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1209,
-    "timeDay": 1028,
-    "timeWeek": 1364,
-    "timeMonth": 932,
-    "timeYear": 1067,
+    "timeDay": 1113,
+    "timeWeek": 1260,
+    "timeMonth": 958,
+    "timeYear": 1069,
     "dailyMinutesDown": {}
   },
   {
@@ -136,11 +136,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1861,
+    "time": 1863,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1991,
+    "timeYear": 1994,
     "dailyMinutesDown": {}
   }
 ]
