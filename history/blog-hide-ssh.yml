@@ -1,7 +1,7 @@
 url: https://hidessh.com/blog
-status: degraded
-code: 502
-responseTime: 10026
-lastUpdated: 2024-02-23T18:14:32.366Z
+status: up
+code: 200
+responseTime: 30
+lastUpdated: 2024-02-23T18:29:14.956Z
 startTime: 2022-10-23T18:29:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
