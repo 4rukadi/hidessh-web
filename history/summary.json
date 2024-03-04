@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1714,
-    "timeDay": 1144,
-    "timeWeek": 1086,
-    "timeMonth": 1583,
-    "timeYear": 1767,
+    "timeDay": 899,
+    "timeWeek": 1064,
+    "timeMonth": 1564,
+    "timeYear": 1766,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1224,
-    "timeDay": 16,
-    "timeWeek": 21,
-    "timeMonth": 384,
-    "timeYear": 1308,
+    "time": 1222,
+    "timeDay": 44,
+    "timeWeek": 26,
+    "timeMonth": 385,
+    "timeYear": 1306,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1499,
-    "timeDay": 1279,
-    "timeWeek": 1176,
-    "timeMonth": 1171,
-    "timeYear": 1506,
+    "timeDay": 991,
+    "timeWeek": 1132,
+    "timeMonth": 1162,
+    "timeYear": 1505,
     "dailyMinutesDown": {}
   },
   {
@@ -68,7 +68,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 4615,
+    "timeYear": 4637,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2603,
+    "time": 2596,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2605,
+    "timeYear": 2610,
     "dailyMinutesDown": {}
   },
   {
@@ -104,7 +104,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 4510,
+    "timeYear": 4531,
     "dailyMinutesDown": {}
   },
   {
@@ -118,11 +118,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1226,
-    "timeDay": 2234,
-    "timeWeek": 1822,
-    "timeMonth": 1510,
-    "timeYear": 1112,
+    "time": 1227,
+    "timeDay": 1690,
+    "timeWeek": 1878,
+    "timeMonth": 1501,
+    "timeYear": 1114,
     "dailyMinutesDown": {}
   },
   {
@@ -140,7 +140,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1992,
+    "timeYear": 1995,
     "dailyMinutesDown": {}
   }
 ]
