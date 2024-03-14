@@ -1,7 +1,7 @@
 url: https://panel.hidessh.com
-status: down
+status: degraded
 code: 403
-responseTime: 1056
-lastUpdated: 2024-03-14T22:35:21.638Z
+responseTime: 5556
+lastUpdated: 2024-03-14T22:55:14.686Z
 startTime: 2022-11-10T05:04:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
