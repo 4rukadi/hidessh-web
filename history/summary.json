@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1708,
-    "timeDay": 1095,
-    "timeWeek": 1052,
-    "timeMonth": 1352,
-    "timeYear": 1758,
+    "timeDay": 1082,
+    "timeWeek": 1083,
+    "timeMonth": 1354,
+    "timeYear": 1757,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1210,
-    "timeDay": 84,
-    "timeWeek": 24,
+    "time": 1209,
+    "timeDay": 27,
+    "timeWeek": 27,
     "timeMonth": 345,
-    "timeYear": 1292,
+    "timeYear": 1290,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1488,
-    "timeDay": 1168,
-    "timeWeek": 1159,
-    "timeMonth": 1552,
+    "timeDay": 1171,
+    "timeWeek": 1184,
+    "timeMonth": 1558,
     "timeYear": 1533,
     "dailyMinutesDown": {}
   },
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3143,
+    "time": 3149,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 4894,
+    "timeYear": 4919,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2599,
+    "time": 2573,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2669,
+    "timeYear": 2675,
     "dailyMinutesDown": {}
   },
   {
@@ -104,7 +104,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 4790,
+    "timeYear": 4814,
     "dailyMinutesDown": {}
   },
   {
@@ -112,17 +112,17 @@
     "url": "https://panel.hidessh.com",
     "icon": "https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "panel-hide-ssh",
-    "status": "degraded",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1926,
-    "timeDay": 3186,
-    "timeWeek": 3170,
-    "timeMonth": 3088,
-    "timeYear": 2028,
+    "time": 1925,
+    "timeDay": 3197,
+    "timeWeek": 3162,
+    "timeMonth": 3089,
+    "timeYear": 2029,
     "dailyMinutesDown": {}
   },
   {
@@ -140,7 +140,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2037,
+    "timeYear": 2040,
     "dailyMinutesDown": {}
   }
 ]
