@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1705,
-    "timeDay": 1000,
-    "timeWeek": 1057,
-    "timeMonth": 1311,
+    "time": 1704,
+    "timeDay": 997,
+    "timeWeek": 1046,
+    "timeMonth": 1302,
     "timeYear": 1754,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1202,
+    "time": 1201,
     "timeDay": 18,
-    "timeWeek": 23,
-    "timeMonth": 346,
-    "timeYear": 1283,
+    "timeWeek": 22,
+    "timeMonth": 335,
+    "timeYear": 1282,
     "dailyMinutesDown": {}
   },
   {
@@ -46,10 +46,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1488,
-    "timeDay": 1155,
-    "timeWeek": 1189,
-    "timeMonth": 1566,
+    "time": 1489,
+    "timeDay": 1142,
+    "timeWeek": 1183,
+    "timeMonth": 1553,
     "timeYear": 1535,
     "dailyMinutesDown": {}
   },
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3188,
+    "time": 3195,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 5079,
+    "timeYear": 5107,
     "dailyMinutesDown": {}
   },
   {
@@ -86,7 +86,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2700,
+    "timeYear": 2706,
     "dailyMinutesDown": {}
   },
   {
@@ -104,7 +104,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 4976,
+    "timeYear": 5003,
     "dailyMinutesDown": {}
   },
   {
@@ -112,16 +112,16 @@
     "url": "https://panel.hidessh.com",
     "icon": "https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "panel-hide-ssh",
-    "status": "degraded",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2359,
-    "timeDay": 3226,
-    "timeWeek": 3207,
-    "timeMonth": 3178,
+    "time": 2358,
+    "timeDay": 3143,
+    "timeWeek": 3201,
+    "timeMonth": 3174,
     "timeYear": 2495,
     "dailyMinutesDown": {}
   },
@@ -140,7 +140,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2048,
+    "timeYear": 2052,
     "dailyMinutesDown": {}
   }
 ]
