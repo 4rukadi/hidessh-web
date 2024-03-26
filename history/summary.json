@@ -112,7 +112,7 @@
     "url": "https://panel.hidessh.com",
     "icon": "https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "panel-hide-ssh",
-    "status": "degraded",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -120,9 +120,9 @@
     "uptimeYear": "100.00%",
     "time": 2516,
     "timeDay": 3160,
-    "timeWeek": 3197,
-    "timeMonth": 3186,
-    "timeYear": 2611,
+    "timeWeek": 3191,
+    "timeMonth": 3183,
+    "timeYear": 2610,
     "dailyMinutesDown": {}
   },
   {
